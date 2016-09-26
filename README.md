@@ -28,13 +28,10 @@ $$x+1\over\sqrt{1-x^2}$$
 This one uses \nonumber:
 $$x+1\over\sqrt{1-x^2}
 Equation Testing
-1. block equation $x$
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-$$x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a}$$
-2. inline equation: $({e}^{i\pi}+1=0)$
-MathJax
+$$x+1\over\sqrt{1-x^2}$$
+This one uses \nonumber:
+$$x+1\over\sqrt{1-x^2}$$
 
-and another numbered one with no label:
 <div>
 $$x+1\over\sqrt{1-x^2}$$
 This one uses \nonumber:
